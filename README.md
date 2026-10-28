@@ -16,7 +16,7 @@
 
 
 ## TechStack
-I like technologies
+I like these technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,java,ts,bash,linux,git,aws,azure,docker,kubernetes,react,postgres,lua&theme=dark&perline=14" alt="Skills" />
 </p>
