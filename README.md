@@ -55,9 +55,3 @@
 ## 🤝 Beyond code
 
 Director of Operations at the **Artificial Intelligence Society (AIS)** at UT Dallas, where I run the event portfolio, including the HackAI hackathon (1,000+ applications).
-
----
-
-<p align="center">
-  Open to software engineering internships · <a href="mailto:Omaham77@gmail.com">Let's talk</a>
-</p>
